@@ -1,11 +1,13 @@
 {
   "current": {
+    "page_width": "1200",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "heading": "Welcome to our store",
               "color_scheme": "accent-1",
@@ -23,7 +25,7 @@
         "type": "header",
         "settings": {
           "logo": "shopify:\/\/shop_images\/logo.png",
-          "logo_width": 80,
+          "logo_width": 60,
           "logo_position": "top-left",
           "menu": "main-menu",
           "show_line_separator": true,
@@ -45,7 +47,7 @@
           "footer-0"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": false,
