@@ -1,6 +1,9 @@
 {
   "current": {
-    "page_width": "1600",
+    "sale_badge_color_scheme": "background-2",
+    "sold_out_badge_color_scheme": "background-1",
+    "accent_icons": "accent-2",
+    "page_width": "1940",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
