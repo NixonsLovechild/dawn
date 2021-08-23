@@ -36,12 +36,12 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured products",
-        "collection": "",
+        "collection": "fwl-capsule-collection-2020",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false
@@ -169,6 +169,22 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1629736907a96e8908": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "collection": "",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false
+      }
     }
   },
   "order": [
@@ -177,6 +193,7 @@
     "image_text",
     "1628957196c9b8cf07",
     "16289578144da3d356",
-    "1628957825b7880806"
+    "1628957825b7880806",
+    "1629736907a96e8908"
   ]
 }
