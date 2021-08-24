@@ -2,6 +2,8 @@
   display: block;
   overflow: hidden;
   text-decoration: none;
+  border: black 1px solid;
+  outline: black 1px solid;
 }
 
 .card + .card-information {
@@ -37,7 +39,7 @@
 }
 
 .card--text-only::before {
-  content: '';
+  content: "";
   display: block;
   padding-bottom: 100%;
 }
