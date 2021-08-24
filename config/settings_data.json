@@ -4,6 +4,7 @@
     "sold_out_badge_color_scheme": "background-1",
     "accent_icons": "accent-2",
     "page_width": "1940",
+    "currency_code_enabled": false,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
