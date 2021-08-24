@@ -66,7 +66,7 @@
           "type": "button",
           "settings": {
             "button_label": "Button label",
-            "button_link": ""
+            "button_link": "shopify:\/\/collections\/accessories"
           }
         }
       },
@@ -76,8 +76,9 @@
         "button"
       ],
       "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/19_white_shirt_733b3ac7-d4ed-4259-8fd9-76549b453907.jpg",
+        "height": "large",
+        "color_scheme": "background-2",
         "layout": "image_first"
       }
     },
