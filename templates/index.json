@@ -26,7 +26,8 @@
         "button"
       ],
       "settings": {
-        "desktop_text_box_position": "flex-end",
+        "image": "shopify:\/\/shop_images\/20_black_shirt_08cd825d-c93c-4730-9a82-91c9a78e4895.jpg",
+        "desktop_text_box_position": "center",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": true
@@ -186,6 +187,53 @@
         "show_image_outline": true,
         "show_vendor": false
       }
+    },
+    "16298978029999caaa": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "Contact form"
+      }
+    },
+    "1629898533690b4792": {
+      "type": "collage",
+      "blocks": {
+        "c13d762e-c4c8-4bee-94d2-518b4f70cd3e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_Orange_Shirt_model_183f5222-2117-4f82-bc9f-013cfc207cbb.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "1629898533690b4792-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "secondary_background": false,
+            "second_image": false,
+            "image_padding": false
+          }
+        },
+        "1629898533690b4792-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "c13d762e-c4c8-4bee-94d2-518b4f70cd3e",
+        "1629898533690b4792-1",
+        "1629898533690b4792-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
     }
   },
   "order": [
@@ -195,6 +243,8 @@
     "1628957196c9b8cf07",
     "16289578144da3d356",
     "1628957825b7880806",
-    "1629736907a96e8908"
+    "1629736907a96e8908",
+    "16298978029999caaa",
+    "1629898533690b4792"
   ]
 }
