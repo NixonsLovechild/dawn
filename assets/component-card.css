@@ -52,11 +52,11 @@
 }
 
 .card--outline:not(.card--soft) {
-  border: 0.1rem solid rgba(var(--color-base-accent-1), 0.04);
+  border: 0.5rem solid rgba(var(--color-base-accent-1), 0.04);
 }
 
 .card--light-border {
-  border: 0.1rem solid rgba(var(--color-base-accent-1), 0.04);
+  border: 0.5rem solid rgba(var(--color-base-accent-1), 0.04);
 }
 
 .card--light-border:hover {
