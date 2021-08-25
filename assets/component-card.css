@@ -2,7 +2,7 @@
   display: block;
   overflow: hidden;
   text-decoration: none;
-  outline: rgba(var(--color-base-accent-1)) 1px solid;
+  border: rgba(var(--color-base-accent-1)) 1px solid;
 }
 
 .card + .card-information {
