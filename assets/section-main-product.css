@@ -27,7 +27,7 @@
     position: sticky;
     top: 3rem;
     z-index: 2;
-    border: 0.2rem solid rgba(var(--color-base-accent-1));
+    outline: 0.2rem solid rgba(var(--color-base-accent-1));
   }
 
   .product__info-wrapper {
