@@ -28,6 +28,7 @@
     top: 3rem;
     z-index: 2;
     outline: 0.2rem solid rgba(var(--color-base-accent-1));
+    padding: 0.2rem;
   }
 
   .product__info-wrapper {
